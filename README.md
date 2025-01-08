@@ -47,19 +47,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=nord" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=github-dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eshanized&theme=nord" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=github-dark" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=nord" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshanized&theme=react-dark" alt="Activity Graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eshanized&theme=nord" alt="WakaTime Stats" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=eshanized&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-
-<img src="https://github-contribution-stats.vercel.app/api/?username=eshanized" alt="Contribution Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eshanized&theme=github-dark" alt="WakaTime Stats" />
 
 </div>
 
