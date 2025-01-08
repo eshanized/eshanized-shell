@@ -18,7 +18,7 @@
               A __|_|__ A                👤 User: eshanized
              A.'_   _'.A                 📍 Location: INDIA
             A    | |    A                🏢 Company: @Snigdha-OS 
-           A     | |     A               📅 GitHub: Oct 2023
+           A     | |     A               📅 GitHub: October 21, 2023
           A      | |      A              📊 Contributions: N/A
          A       | |       A             📚 Repositories: 15
         A        | |        A            👥 Followers: 15
@@ -36,15 +36,15 @@ A________________| |________________A
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+<img src="https://img.shields.io/badge/Vue-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=github-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshanized&show_icons=true&theme=nord" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=github-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanized&layout=compact&theme=nord" alt="Top Languages" />
   
 </p>
 
