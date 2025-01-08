@@ -53,6 +53,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eshanized&theme=github-dark" alt="WakaTime Stats" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=eshanized&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=eshanized" alt="Contribution Stats" />
+
 </div>
 
 > Note: To track coding time statistics, connect your GitHub account with [WakaTime](https://wakatime.com).
