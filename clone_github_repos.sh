@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Author: Eshan Roy | eshanized
+# Contact: m.eshanized@gmail.com
+# GitHub: https://github.com/eshanized
+# Description: 
+#   This script fetches and clones all public repositories of a specified GitHub user
+#   into a local directory. It checks if the repositories already exist and skips them 
+#   if they do. The script uses the GitHub API and requires `jq` for parsing JSON responses.
+
 # Define color codes
 RED='\033[0;31m'
 GREEN='\033[0;32m'
